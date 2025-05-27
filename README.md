@@ -120,3 +120,7 @@ tmux new -s mynode
 4. Once your node is active & running, Detach from tmux (leave the session running):
 ```Press Ctrl+B, then D```
 
+5. Return back to tmux session
+   ```
+   tmux attach -t mynode
+   ```
