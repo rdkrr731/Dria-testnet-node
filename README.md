@@ -6,7 +6,7 @@
 8vCPU & 16 GB RAM
 
 ➡️ You can use GCP VPS to run this node.
-Check this guide how to setup Google Cloud VPS: 
+Check this guide [how to setup Google Cloud VPS](https://github.com/rdkrr731/GCP-VPS-Setup.git)
 
 ## 🔹 Install Ollama (Choose your OS)
 
